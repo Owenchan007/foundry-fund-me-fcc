@@ -1,4 +1,4 @@
-FundMe contracts written by foundry
+FundMe contracts written by Foundry
 
 @OwenChan
 
